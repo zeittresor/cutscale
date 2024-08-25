@@ -4,3 +4,4 @@ Script to Scale (up / down all Images of a folder to a square with a given Resol
 
 The new file do not overwrite the original file, just a new file will be created with the choosen resolution in front ex. 768_[filename].png (should work with .png, .jpg and .jpeg images).
 
+The Script should work with any resolution to get squares. (Might be useful for ex. using Kohya_ss / Dreambooth lora or embeddings training in Stable Diffusion).
