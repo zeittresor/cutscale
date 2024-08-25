@@ -6,6 +6,4 @@ Usage:
 python cutscale.py 1152
 -> Result: Every image of the folder where you execute the script will be scaled to new files with a resolution of 1152 x 1152 with the name 1152_[filename].[png/jpg/jpeg]. The orig. Image will stay untouched.
 
-The new file do not overwrite the original file, just a new file will be created with the choosen resolution in front ex. 768_[filename].png (should work with .png, .jpg and .jpeg images).
-
 The Script should work with any resolution to get squares. (Might be useful for ex. using Kohya_ss / Dreambooth lora or embeddings training in Stable Diffusion).
